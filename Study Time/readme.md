@@ -43,6 +43,13 @@ git clone https://github.com/AmalVinob/Github-LearningENV.git
 cd/ Github-LearningENV 
 ``` 
 
+>one way of doing commit is to get access token (personel access token) from the settings and 
+>you will use PAT as password when login
+
+
+
+### ssh
+
 ## commit
 
 when we want to commit code we write git commit which will open
