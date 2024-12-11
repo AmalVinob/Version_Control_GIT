@@ -50,6 +50,10 @@ cd/ Github-LearningENV
 
 ### ssh
 
+ ssh-keygen -t rsa
+
+  ssh-keygen -t rsa
+
 ## commit
 
 when we want to commit code we write git commit which will open
