@@ -1,5 +1,4 @@
 # Github-LearningENV
-To study Github
+Still Studying
 
-hello!!!
 
